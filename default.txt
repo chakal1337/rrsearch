@@ -1,0 +1,7 @@
+index.php
+index
+default.asp
+default.aspx
+default
+server-status
+nginx_status
